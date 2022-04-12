@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "caDesignPatternStrategy", "caDesignPatternStrategy\caDesignPatternStrategy.csproj", "{291AD83F-CEED-4998-A90C-E0B8A5BD0BF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "caFormaERRADA", "caFormaERRADA\caFormaERRADA.csproj", "{38ECDE0C-8C01-40CA-8A74-87F81C65D281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{291AD83F-CEED-4998-A90C-E0B8A5BD0BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291AD83F-CEED-4998-A90C-E0B8A5BD0BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291AD83F-CEED-4998-A90C-E0B8A5BD0BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291AD83F-CEED-4998-A90C-E0B8A5BD0BF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38ECDE0C-8C01-40CA-8A74-87F81C65D281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38ECDE0C-8C01-40CA-8A74-87F81C65D281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38ECDE0C-8C01-40CA-8A74-87F81C65D281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38ECDE0C-8C01-40CA-8A74-87F81C65D281}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49E71C83-1292-4EDE-980C-28FA753E2812}
+	EndGlobalSection
+EndGlobal
