@@ -1,4 +1,13 @@
-# CSharp_caDesignPatternStrategy
+<h1 align="left">EXEMPLO DESIGNER PATTERNS - PADRAO STRATEGY</h1>
+
+| :placard: Vitrine.Dev |  |
+| -------------  | --- |
+| :sparkles: Nome        | **CSharp_caDesignPatternStrategy**
+| :label: Tecnologias | C#
+
+![image](https://user-images.githubusercontent.com/24603753/204857507-db1ba68f-3d1d-43b0-9f84-712f35b20be5.png#vitrinedev)
+
+<h2 align="left">Detalhes do projeto</h2>
 
 DESIGNER PATTERNS - PADRAO STRATEGY
 
